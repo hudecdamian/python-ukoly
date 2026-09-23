@@ -1,0 +1,7 @@
+print ("Hello World!")
+print()
+print ("-----------------------------------------")
+print ("Name: Damian Hudec")
+print("Obor IT")
+print ("-----------------------------------------")
+print()
